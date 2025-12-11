@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.4.0",
-    "generatedAt": "2025-12-11T00:32:24.926Z",
+    "version": "1.5.0",
+    "generatedAt": "2025-12-11T00:36:03.093Z",
     "templateType": "full_banner_slider",
     "propertyId": "abbd2563-ab58-4776-b90d-0d57bfa6b9ec",
     "homepageId": "0f412d98-e24a-441a-aa0e-145e5905f0be"
@@ -347,7 +347,7 @@
       "id": "2bcb7d55-ba5d-4f01-b60a-43064d7075cb",
       "name": "소소한가 (촌캉스/한옥/독채)",
       "description": "",
-      "roomInfo": "",
+      "roomInfo": "[인원추가(1박기준/현장결제)]\n- 1인당 20,000원\n- 아동, 유아도 기준인원 포함 / 최대인원 초과 불가",
       "group": null,
       "size": 1,
       "baseOccupancy": 2,
@@ -396,20 +396,27 @@
             {
               "id": "a7a95a54-a3af-4554-8644-2476bc4af301",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/roomtype/2bcb7d55-ba5d-4f01-b60a-43064d7075cb/interior/1765409610899-g3k3lqug85b.jpg",
-              "sortOrder": 1,
+              "sortOrder": 0,
               "description": "",
-              "isSelected": true
+              "isSelected": false
             },
             {
               "id": "e497aaa9-79a7-4a42-999d-820c6f7cbd45",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/roomtype/2bcb7d55-ba5d-4f01-b60a-43064d7075cb/interior/1765409610899-mbbukjdc07.jpg",
-              "sortOrder": 2,
+              "sortOrder": 1,
               "description": "",
               "isSelected": true
             },
             {
               "id": "52a17afa-d649-40bc-9757-f62d4dddd08f",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/roomtype/2bcb7d55-ba5d-4f01-b60a-43064d7075cb/interior/1765409610899-joa8llq30i.jpg",
+              "sortOrder": 2,
+              "description": "",
+              "isSelected": true
+            },
+            {
+              "id": "980e452f-78b4-4a3e-8a77-31bd034f9a45",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/roomtype/2bcb7d55-ba5d-4f01-b60a-43064d7075cb/interior/1765409610900-7b2mv080rwr.jpg",
               "sortOrder": 3,
               "description": "",
               "isSelected": true
@@ -433,7 +440,7 @@
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/roomtype/2bcb7d55-ba5d-4f01-b60a-43064d7075cb/interior/1765409610899-51uw7temdba.jpg",
               "sortOrder": 6,
               "description": "",
-              "isSelected": true
+              "isSelected": false
             },
             {
               "id": "040d9d63-4f9d-43bc-910e-762ede9ee616",
@@ -471,51 +478,44 @@
               "isSelected": true
             },
             {
-              "id": "980e452f-78b4-4a3e-8a77-31bd034f9a45",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/roomtype/2bcb7d55-ba5d-4f01-b60a-43064d7075cb/interior/1765409610900-7b2mv080rwr.jpg",
-              "sortOrder": 12,
-              "description": "",
-              "isSelected": true
-            },
-            {
               "id": "43fbf531-a9e8-4e6d-affc-b1675e09b887",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/roomtype/2bcb7d55-ba5d-4f01-b60a-43064d7075cb/interior/1765409610900-mxgjn90gkl9.jpg",
-              "sortOrder": 13,
+              "sortOrder": 12,
               "description": "",
               "isSelected": true
             },
             {
               "id": "7480045f-a1cd-4a6f-beba-e030613da505",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/roomtype/2bcb7d55-ba5d-4f01-b60a-43064d7075cb/interior/1765409610900-9g6dt8r4xmd.jpg",
-              "sortOrder": 14,
+              "sortOrder": 13,
               "description": "",
               "isSelected": true
             },
             {
               "id": "b3b01e6c-874b-401d-a31c-4742bd8c8869",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/roomtype/2bcb7d55-ba5d-4f01-b60a-43064d7075cb/interior/1765409610901-yu0o9435ana.jpg",
-              "sortOrder": 15,
+              "sortOrder": 14,
               "description": "",
               "isSelected": true
             },
             {
               "id": "b5b10db2-0e44-4161-8950-c83e6e356179",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/roomtype/2bcb7d55-ba5d-4f01-b60a-43064d7075cb/interior/1765409610901-pre3eb1g5ca.jpg",
-              "sortOrder": 16,
+              "sortOrder": 15,
               "description": "",
               "isSelected": true
             },
             {
               "id": "045945c1-ed30-4b4c-865a-0e1195962d97",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/roomtype/2bcb7d55-ba5d-4f01-b60a-43064d7075cb/interior/1765409610901-dzei2dxbm6s.jpg",
-              "sortOrder": 17,
+              "sortOrder": 16,
               "description": "",
               "isSelected": true
             },
             {
               "id": "77be89d8-3027-4600-9d40-de20ede70d30",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/roomtype/2bcb7d55-ba5d-4f01-b60a-43064d7075cb/interior/1765409610901-h87kprkynv.jpg",
-              "sortOrder": 18,
+              "sortOrder": 17,
               "description": "",
               "isSelected": true
             }
@@ -524,30 +524,30 @@
             {
               "id": "8dcfa6cd-b6ab-4bcb-b737-5bf1c7edf5b5",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/roomtype/2bcb7d55-ba5d-4f01-b60a-43064d7075cb/exterior/1765409610901-2nmy7dbaayv.jpg",
-              "sortOrder": 19,
-              "description": "",
+              "sortOrder": 0,
+              "description": "강릉 시골마을 산 아래 감성숙소",
               "isSelected": true
             },
             {
               "id": "3198d6a2-1a35-4b8b-b1d3-b16e79b8ba34",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/roomtype/2bcb7d55-ba5d-4f01-b60a-43064d7075cb/exterior/1765409610901-83w1xf5sg48.jpg",
-              "sortOrder": 20,
-              "description": "",
+              "sortOrder": 1,
+              "description": "온전히 나를 위한 시간",
               "isSelected": true
             },
             {
               "id": "dd5d4fc5-db6d-48e8-8937-0891b4096dfa",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/roomtype/2bcb7d55-ba5d-4f01-b60a-43064d7075cb/exterior/1765409610901-j5mmz76ezvg.jpg",
-              "sortOrder": 21,
-              "description": "",
+              "sortOrder": 2,
+              "description": "강릉 소소한가",
               "isSelected": true
             },
             {
               "id": "099369b6-2647-467d-bc2a-cf96f994bb41",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/roomtype/2bcb7d55-ba5d-4f01-b60a-43064d7075cb/exterior/1765409610901-ddbky4jzv4h.jpg",
-              "sortOrder": 22,
+              "sortOrder": 3,
               "description": "",
-              "isSelected": true
+              "isSelected": false
             }
           ]
         }
@@ -866,9 +866,9 @@
                   "images": []
                 },
                 "experience": {
+                  "benefits": [],
                   "features": [],
-                  "additionalInfos": [],
-                  "benefits": []
+                  "additionalInfos": []
                 }
               }
             ]
