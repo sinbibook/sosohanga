@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.0.0",
-    "generatedAt": "2025-12-10T23:39:47.209Z",
+    "version": "1.1.0",
+    "generatedAt": "2025-12-11T00:28:10.782Z",
     "templateType": "full_banner_slider",
     "propertyId": "abbd2563-ab58-4776-b90d-0d57bfa6b9ec",
     "homepageId": "0f412d98-e24a-441a-aa0e-145e5905f0be"
@@ -80,20 +80,20 @@
             "isSelected": true
           },
           {
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/e175b5c8-4537-4fe3-bbf0-605b1aa7501e/main/1765252413543-d14yco42ez4.jpg",
-            "sortOrder": 2,
-            "description": "",
-            "isSelected": true
-          },
-          {
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/e175b5c8-4537-4fe3-bbf0-605b1aa7501e/main/1765252413543-8259h4k4845.jpg",
-            "sortOrder": 0,
+            "sortOrder": 1,
             "description": "",
             "isSelected": true
           },
           {
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/e175b5c8-4537-4fe3-bbf0-605b1aa7501e/main/1765252413543-ebe07e1cjl.jpg",
-            "sortOrder": 1,
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/e175b5c8-4537-4fe3-bbf0-605b1aa7501e/main/1765252413543-d14yco42ez4.jpg",
+            "sortOrder": 3,
             "description": "",
             "isSelected": true
           }
@@ -105,7 +105,32 @@
         "description": "강릉 소소한가만의 특별한 서비스",
         "usageGuide": "- 무료 Wi-Fi 이용 가능\n- 무료 주차장\n- 소화기, 화재감지기, 열감지기 구비",
         "displayOrder": 40,
-        "images": []
+        "images": [
+          {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/890c908a-3bf2-4eb9-a207-646f49859644/main/1765412863299-ublkhk3o2k.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/890c908a-3bf2-4eb9-a207-646f49859644/main/1765412863299-lhwcoro0am.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/890c908a-3bf2-4eb9-a207-646f49859644/main/1765412863299-c8r0v1nqu68.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/890c908a-3bf2-4eb9-a207-646f49859644/main/1765412863299-irs4fruk5hl.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          }
+        ]
       }
     ],
     "refundPolicies": [
@@ -553,8 +578,8 @@
                 "title": "",
                 "images": [
                   {
-                    "id": "99faecbc-55d4-447f-a8f7-5c9cec664d32",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0f412d98-e24a-441a-aa0e-145e5905f0be/index_hero/1765409842597-2geitvdojo.jpg",
+                    "id": "f38a4860-24c6-44bd-8ff4-30fb8da49c23",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0f412d98-e24a-441a-aa0e-145e5905f0be/index_hero/1765411515559-4ws1ug7boz5.jpg",
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true
@@ -567,57 +592,82 @@
                     "isSelected": true
                   },
                   {
-                    "id": "c9033ff7-1b19-49bd-b572-1c6ee07d6d17",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0f412d98-e24a-441a-aa0e-145e5905f0be/index_hero/1765409842597-1kzvtcydean.jpg",
+                    "id": "99faecbc-55d4-447f-a8f7-5c9cec664d32",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0f412d98-e24a-441a-aa0e-145e5905f0be/index_hero/1765409842597-2geitvdojo.jpg",
                     "sortOrder": 2,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "e15fdb50-f92a-46ad-ad6f-e73733a97ff8",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0f412d98-e24a-441a-aa0e-145e5905f0be/index_hero/1765411515560-e5xf9w0mxct.jpg",
+                    "sortOrder": 3,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "e7ce66a2-2b78-4fba-88a7-5059d6d4b226",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0f412d98-e24a-441a-aa0e-145e5905f0be/index_hero/1765409842597-dhviz7vrozm.jpg",
-                    "sortOrder": 3,
+                    "sortOrder": 4,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "85659791-deca-4674-b772-04c16a547e2d",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0f412d98-e24a-441a-aa0e-145e5905f0be/index_hero/1765409842598-z5gxwqya0c.jpg",
-                    "sortOrder": 4,
+                    "sortOrder": 5,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "fc8ac3e0-d56a-464b-9e77-fbb9a4b1a90b",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0f412d98-e24a-441a-aa0e-145e5905f0be/index_hero/1765409842600-2u1ew561ghi.jpg",
-                    "sortOrder": 5,
-                    "description": "",
-                    "isSelected": true
-                  },
-                  {
-                    "id": "c2c7a7b1-0b54-47b3-82c2-83da4a33705c",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0f412d98-e24a-441a-aa0e-145e5905f0be/index_hero/1765409842600-3kqe5wmy6zn.jpg",
                     "sortOrder": 6,
                     "description": "",
                     "isSelected": true
                   }
-                ]
+                ],
+                "description": "작은 시골마을, 산 아래 감성숙소"
               },
               "closing": {
-                "title": "",
+                "title": "강릉 산골마을 감성 촌캉스",
                 "images": [
                   {
                     "id": "7baaf396-b849-4ff6-85bc-371fbbd2852b",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0f412d98-e24a-441a-aa0e-145e5905f0be/index_closing/1765409842601-87ut3qq8ynu.jpg",
                     "sortOrder": 0,
                     "description": "",
+                    "isSelected": false
+                  },
+                  {
+                    "id": "14835532-f001-4cd6-9f58-8cc92dcf5b58",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0f412d98-e24a-441a-aa0e-145e5905f0be/index_closing/1765412219531-pcrnig99ca7.jpg",
+                    "sortOrder": 1,
+                    "description": "",
                     "isSelected": true
                   }
-                ]
+                ],
+                "description": "강릉 소소한가"
               },
               "essence": {
-                "title": "",
-                "images": []
+                "title": "미리보기",
+                "images": [
+                  {
+                    "id": "5f7e4238-9e63-48b0-a0ff-374126216255",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0f412d98-e24a-441a-aa0e-145e5905f0be/index_essence/1765411872637-gdgm6bz7lq5.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "816bdd32-9333-4c56-8c93-8dacf253470a",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0f412d98-e24a-441a-aa0e-145e5905f0be/index_essence/1765411872637-86s8hnmq6t.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true
+                  }
+                ],
+                "description": "강릉 소소한가는 이런 곳이에요."
               },
               "gallery": {
                 "title": "",
@@ -625,7 +675,29 @@
               },
               "signature": {
                 "title": "",
-                "images": []
+                "images": [
+                  {
+                    "id": "db4c4642-ddb1-456b-9cc6-d7735cea7ec4",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0f412d98-e24a-441a-aa0e-145e5905f0be/index_signature/1765412219530-ir3lr1kl07d.jpg",
+                    "sortOrder": 0,
+                    "description": "강릉 산골마을의 독채에서 한적한 촌캉스를 즐겨보세요.",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "475d7ff7-d31d-489d-a136-54739c37d674",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0f412d98-e24a-441a-aa0e-145e5905f0be/index_signature/1765412219531-piq39mx8rx.jpg",
+                    "sortOrder": 1,
+                    "description": "따뜻한 자쿠지에 몸을 맡기며 하루의 피로를 풀어내고,",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "30910b07-7ccb-4c89-8415-bfa857955f9a",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0f412d98-e24a-441a-aa0e-145e5905f0be/index_signature/1765412219531-golck4es4sk.jpg",
+                    "sortOrder": 2,
+                    "description": "시골 자연이 건네는 깊은 고요함을 온전히 느껴보세요.",
+                    "isSelected": true
+                  }
+                ]
               }
             }
           ]
@@ -635,7 +707,15 @@
             {
               "hero": {
                 "title": "",
-                "images": []
+                "images": [
+                  {
+                    "id": "7334c314-3fa9-4728-84f8-06cd1ba630ad",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0f412d98-e24a-441a-aa0e-145e5905f0be/directions_hero/1765412876359-b3inx76x50o.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true
+                  }
+                ]
               },
               "notice": {
                 "title": "",
@@ -651,38 +731,53 @@
                 "title": "",
                 "images": [
                   {
-                    "id": "ff14b31e-d9ba-449c-8617-fc00dfaf1b07",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0f412d98-e24a-441a-aa0e-145e5905f0be/main_hero/1765409930194-0ga60bglfd5m.jpg",
+                    "id": "d9669ec9-753f-497a-a48d-cc09c9c22e5e",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0f412d98-e24a-441a-aa0e-145e5905f0be/main_hero/1765412595029-offo9r1geye.jpg",
                     "sortOrder": 0,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": false
+                  },
+                  {
+                    "id": "ff14b31e-d9ba-449c-8617-fc00dfaf1b07",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0f412d98-e24a-441a-aa0e-145e5905f0be/main_hero/1765409930194-0ga60bglfd5m.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": false
                   },
                   {
                     "id": "28c5f2b8-4700-48e4-b918-20060f30caea",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0f412d98-e24a-441a-aa0e-145e5905f0be/main_hero/1765409930194-c4nt3dlfcbq.jpg",
-                    "sortOrder": 1,
+                    "sortOrder": 2,
                     "description": "",
                     "isSelected": false
                   },
                   {
                     "id": "5c68d584-2032-4852-8564-2714be149f91",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0f412d98-e24a-441a-aa0e-145e5905f0be/main_hero/1765409930194-d245sec6hy5.jpg",
-                    "sortOrder": 2,
+                    "sortOrder": 3,
                     "description": "",
                     "isSelected": false
                   },
                   {
                     "id": "6657e1d0-702b-4067-bd10-f8b97b663bbc",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0f412d98-e24a-441a-aa0e-145e5905f0be/main_hero/1765409930194-cy3zlf533tv.jpg",
-                    "sortOrder": 3,
+                    "sortOrder": 4,
                     "description": "",
                     "isSelected": false
+                  },
+                  {
+                    "id": "7d398055-af27-44f9-bf12-735a332ff312",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0f412d98-e24a-441a-aa0e-145e5905f0be/main_hero/1765412595029-ei9akqmwzi4.jpg",
+                    "sortOrder": 5,
+                    "description": "",
+                    "isSelected": true
                   }
-                ]
+                ],
+                "description": ""
               },
               "about": [
                 {
-                  "title": "",
+                  "title": "소개",
                   "images": [
                     {
                       "id": "59d3ad4d-ebf8-4946-9531-66025676bd3d",
@@ -697,19 +792,88 @@
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0f412d98-e24a-441a-aa0e-145e5905f0be/main_about/1765409930194-x9be4wdcq4c.jpg",
                       "sortOrder": 1,
                       "description": "",
+                      "isSelected": false,
+                      "blockId": "379b6025-c16c-4244-a43b-ab2d90dc2329"
+                    },
+                    {
+                      "id": "45c23afc-905d-4faa-ba47-6f354669c319",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0f412d98-e24a-441a-aa0e-145e5905f0be/main_about/1765412595029-0y6txotdyzgd.jpg",
+                      "sortOrder": 2,
+                      "description": "",
+                      "isSelected": false,
+                      "blockId": "379b6025-c16c-4244-a43b-ab2d90dc2329"
+                    },
+                    {
+                      "id": "8fbb5105-65ad-4657-8077-e691a8a73ce5",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0f412d98-e24a-441a-aa0e-145e5905f0be/main_about/1765412595029-12h6iu8c33gb.jpg",
+                      "sortOrder": 3,
+                      "description": "",
+                      "isSelected": false,
+                      "blockId": "379b6025-c16c-4244-a43b-ab2d90dc2329"
+                    },
+                    {
+                      "id": "18f21507-6cb4-48d5-ae12-b89a4992e680",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0f412d98-e24a-441a-aa0e-145e5905f0be/main_about/1765412595029-w6zj3qacwvh.jpg",
+                      "sortOrder": 4,
+                      "description": "",
+                      "isSelected": false,
+                      "blockId": "379b6025-c16c-4244-a43b-ab2d90dc2329"
+                    },
+                    {
+                      "id": "e13a3c9b-3337-470e-9b62-cae96e5935de",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0f412d98-e24a-441a-aa0e-145e5905f0be/main_about/1765412595029-njxcagztnh.jpg",
+                      "sortOrder": 5,
+                      "description": "",
                       "isSelected": true,
                       "blockId": "379b6025-c16c-4244-a43b-ab2d90dc2329"
                     }
                   ],
                   "blockId": "379b6025-c16c-4244-a43b-ab2d90dc2329",
-                  "description": ""
+                  "description": "/ 강릉 소소한가 /\n\n강릉 산골마을의 독채에서 즐기는 한적한 촌캉스.\n따뜻한 자쿠지에 몸을 맡기며 하루의 피로를 천천히 풀어내고,\n시골 자연이 건네는 깊은 고요함을 온전히 느껴보세요."
                 }
               ]
             }
           ]
         },
-        "room": [],
-        "facility": [],
+        "room": [
+          {
+            "id": "2bcb7d55-ba5d-4f01-b60a-43064d7075cb",
+            "sections": [
+              {
+                "hero": {
+                  "title": "독채형 : 거실+침대룸(퀸1)+주방+화장실1+자쿠지룸",
+                  "images": []
+                },
+                "gallery": {
+                  "title": "",
+                  "images": []
+                }
+              }
+            ]
+          }
+        ],
+        "facility": [
+          {
+            "id": "e175b5c8-4537-4fe3-bbf0-605b1aa7501e",
+            "sections": [
+              {
+                "hero": {
+                  "title": "",
+                  "images": []
+                },
+                "about": {
+                  "title": "",
+                  "images": []
+                },
+                "experience": {
+                  "features": [],
+                  "additionalInfos": [],
+                  "benefits": []
+                }
+              }
+            ]
+          }
+        ],
         "reservation": {
           "sections": [
             {
@@ -726,7 +890,6 @@
           ]
         }
       }
-    },
-    "id": "0f412d98-e24a-441a-aa0e-145e5905f0be"
+    }
   }
 }
