@@ -1,1 +1,1 @@
-# sosohanga
+# template-full-banner-slider
