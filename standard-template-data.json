@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.10.0",
-    "generatedAt": "2025-12-11T02:47:19.312Z",
+    "version": "1.11.0",
+    "generatedAt": "2025-12-15T06:23:47.947Z",
     "templateType": "full_banner_slider",
     "propertyId": "abbd2563-ab58-4776-b90d-0d57bfa6b9ec",
     "homepageId": "0f412d98-e24a-441a-aa0e-145e5905f0be"
@@ -12,8 +12,8 @@
     "description": "",
     "subtitle": "독채와 자쿠지에서 머무는 고요한 여유",
     "address": "강원특별자치도 강릉시 연곡면 신왕길 98-5 2동101호",
-    "latitude": 0,
-    "longitude": 0,
+    "latitude": 37.8451065689731,
+    "longitude": 128.788089321573,
     "contactPhone": "010-7170-3445",
     "contactEmail": "",
     "checkin": "15:00:00",
