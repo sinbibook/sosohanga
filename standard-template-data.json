@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.18.0",
-    "generatedAt": "2026-01-05T03:20:25.822Z",
+    "version": "1.19.0",
+    "generatedAt": "2026-01-15T08:45:12.175Z",
     "templateType": "full_banner_slider",
     "propertyId": "abbd2563-ab58-4776-b90d-0d57bfa6b9ec",
     "homepageId": "0f412d98-e24a-441a-aa0e-145e5905f0be"
@@ -938,8 +938,40 @@
         "color": null
       },
       "popup": {
-        "popups": []
-      }
-    }
+        "popups": [
+          {
+            "id": "17029f3d-f091-4a9f-be5c-dae233695187",
+            "link": "",
+            "title": "",
+            "images": [
+              {
+                "id": "eb051da6-9597-4fe8-b223-22b662ea6440",
+                "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0f412d98-e24a-441a-aa0e-145e5905f0be/popup/1768466706788-vhl5ojb89nl.jpg",
+                "sortOrder": 0,
+                "description": "",
+                "isSelected": true,
+                "blockId": "17029f3d-f091-4a9f-be5c-dae233695187"
+              }
+            ],
+            "slider": false,
+            "enabled": true,
+            "endDate": null,
+            "sortOrder": 0,
+            "startDate": null,
+            "description": ""
+          }
+        ]
+      },
+      "property": {
+        "images": []
+      },
+      "roomtypes": [
+        {
+          "id": "2bcb7d55-ba5d-4f01-b60a-43064d7075cb",
+          "images": []
+        }
+      ]
+    },
+    "id": "0f412d98-e24a-441a-aa0e-145e5905f0be"
   }
 }
