@@ -224,13 +224,12 @@ class HeaderFooterMapper extends BaseDataMapper {
             }
         });
 
-        // 저작권 정보 매핑 (data-footer-copyright) - customFields 헬퍼 사용
-        const builderPropertyName = this.getPropertyName();
+        // 저작권 정보 매핑 (data-footer-copyright)
         const copyrightElements = this.safeSelectAll('[data-footer-copyright]');
         copyrightElements.forEach(copyrightEl => {
-            if (copyrightEl && builderPropertyName) {
+            if (copyrightEl) {
                 const currentYear = new Date().getFullYear();
-                copyrightEl.textContent = `© ${currentYear} ${builderPropertyName}. All rights reserved.`;
+                copyrightEl.innerHTML = `<a href="https://www.sinbibook.com/" target="_blank" rel="noopener">© ${currentYear} 신비서. All rights reserved.</a>`;
             }
         });
 
@@ -344,8 +343,7 @@ class HeaderFooterMapper extends BaseDataMapper {
         const bookingButton = document.querySelector('[data-property-gpension-id]');
         if (bookingButton && this.data?.property?.realtimeBookingId) {
             bookingButton.addEventListener('click', () => {
-                const realtimeBookingId = this.data.property.realtimeBookingId;
-                const bookingUrl = `https://www.bookingplay.co.kr/booking/1/${realtimeBookingId}`;
+                const bookingUrl = this.data.property.realtimeBookingId;
                 window.open(bookingUrl, '_blank');
             });
         }
