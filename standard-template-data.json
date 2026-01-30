@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.23.0",
-    "generatedAt": "2026-01-27T06:35:50.383Z",
+    "version": "1.24.0",
+    "generatedAt": "2026-01-30T07:27:00.747Z",
     "templateType": "full_banner_slider",
     "propertyId": "abbd2563-ab58-4776-b90d-0d57bfa6b9ec",
     "homepageId": "0f412d98-e24a-441a-aa0e-145e5905f0be"
@@ -44,10 +44,10 @@
       "businessNumber": "207-11-50451",
       "representativeName": "김소정",
       "businessAddress": "강원특별자치도 강릉시 연곡면 신왕길 98-5, 2동 101호",
-      "businessPhone": "",
-      "businessEmail": "",
-      "businessType": "",
-      "businessCategory": "",
+      "businessPhone": "010-7170-3445",
+      "businessEmail": "0000@naver.com",
+      "businessType": "individual",
+      "businessCategory": "숙박업",
       "eCommerceRegistrationNumber": ""
     },
     "contractInfo": {
@@ -144,11 +144,11 @@
     "refundPolicies": [
       {
         "refundProcessingDays": 9,
-        "refundRate": 90
+        "refundRate": 100
       },
       {
         "refundProcessingDays": 8,
-        "refundRate": 80
+        "refundRate": 90
       },
       {
         "refundProcessingDays": 7,
@@ -164,19 +164,19 @@
       },
       {
         "refundProcessingDays": 4,
-        "refundRate": 40
-      },
-      {
-        "refundProcessingDays": 3,
         "refundRate": 30
       },
       {
-        "refundProcessingDays": 2,
+        "refundProcessingDays": 3,
         "refundRate": 20
       },
       {
+        "refundProcessingDays": 2,
+        "refundRate": 0
+      },
+      {
         "refundProcessingDays": 1,
-        "refundRate": 10
+        "refundRate": 0
       },
       {
         "refundProcessingDays": 0,
@@ -1166,7 +1166,7 @@
             {
               "id": "85453b7e-dd46-45ac-8cff-437de239846b",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0f412d98-e24a-441a-aa0e-145e5905f0be/roomtype_interior/1769139352049-2d62ncoo804.jpg",
-              "sortOrder": 1,
+              "sortOrder": 0,
               "description": "",
               "isSelected": true,
               "blockId": "2bcb7d55-ba5d-4f01-b60a-43064d7075cb",
@@ -1328,7 +1328,7 @@
             {
               "id": "25e94a49-e0d1-4bc3-8fcf-4e8d23851162",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0f412d98-e24a-441a-aa0e-145e5905f0be/roomtype_exterior/1769139352050-bk4jqvb5va8.jpg",
-              "sortOrder": 1,
+              "sortOrder": 0,
               "description": "",
               "isSelected": true,
               "blockId": "2bcb7d55-ba5d-4f01-b60a-43064d7075cb",
@@ -1337,7 +1337,7 @@
             {
               "id": "57fb39b2-8129-4f8f-ad2a-5d39befa6a16",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0f412d98-e24a-441a-aa0e-145e5905f0be/roomtype_exterior/1769139352050-1migftysyu6.jpg",
-              "sortOrder": 2,
+              "sortOrder": 1,
               "description": "",
               "isSelected": true,
               "blockId": "2bcb7d55-ba5d-4f01-b60a-43064d7075cb",
@@ -1346,7 +1346,7 @@
             {
               "id": "f467421a-66d3-47eb-9340-a2cd5068d764",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0f412d98-e24a-441a-aa0e-145e5905f0be/roomtype_exterior/1769139352050-bbvstl40i9n.jpg",
-              "sortOrder": 3,
+              "sortOrder": 2,
               "description": "",
               "isSelected": false,
               "blockId": "2bcb7d55-ba5d-4f01-b60a-43064d7075cb",
@@ -1355,7 +1355,7 @@
             {
               "id": "895c9c34-5933-46d8-933b-2b421d2d3eac",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0f412d98-e24a-441a-aa0e-145e5905f0be/roomtype_exterior/1769139352050-tzonbcl1own.jpg",
-              "sortOrder": 19,
+              "sortOrder": 3,
               "description": "",
               "isSelected": true,
               "blockId": "2bcb7d55-ba5d-4f01-b60a-43064d7075cb",
@@ -1364,6 +1364,7 @@
           ]
         }
       ]
-    }
+    },
+    "id": "0f412d98-e24a-441a-aa0e-145e5905f0be"
   }
 }
