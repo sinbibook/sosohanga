@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.24.0",
-    "generatedAt": "2026-01-30T07:27:00.747Z",
+    "version": "1.25.0",
+    "generatedAt": "2026-03-23T08:46:31.099Z",
     "templateType": "full_banner_slider",
     "propertyId": "abbd2563-ab58-4776-b90d-0d57bfa6b9ec",
     "homepageId": "0f412d98-e24a-441a-aa0e-145e5905f0be"
@@ -363,6 +363,7 @@
       "name": "소소한가 (촌캉스/한옥/독채)",
       "description": "",
       "roomInfo": "[인원추가(1박기준/현장결제)]\n- 1인당 20,000원\n- 아동, 유아도 기준인원 포함 / 최대인원 초과 불가",
+      "usageGuide": "",
       "group": null,
       "size": 1,
       "baseOccupancy": 2,
@@ -935,7 +936,12 @@
             "woff2": null,
             "family": "Pretendard"
           },
-          "enMain": null,
+          "enMain": {
+            "cdn": "https://fonts.googleapis.com/css2?family=Cormorant:ital,wght@0,300..700;1,300..700&display=swap",
+            "key": "cormorant",
+            "woff2": null,
+            "family": "Cormorant"
+          },
           "koMain": {
             "cdn": null,
             "key": "imhyemin",
