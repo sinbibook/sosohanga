@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.30.0",
-    "generatedAt": "2026-11-12T06:50:36.892523525Z",
+    "version": "1.31.0",
+    "generatedAt": "2026-11-12T06:52:38.672326607Z",
     "templateType": "fullpage_mood",
     "propertyId": "abbd2563-ab58-4776-b90d-0d57bfa6b9ec",
     "homepageId": "0f412d98-e24a-441a-aa0e-145e5905f0be"
@@ -944,7 +944,7 @@
               {
                 "id": "eb051da6-9597-4fe8-b223-22b662ea6440",
                 "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0f412d98-e24a-441a-aa0e-145e5905f0be/popup/1768466706788-vhl5ojb89nl.jpg",
-                "sortOrder": 0,
+                "sortOrder": 1,
                 "description": "",
                 "isSelected": false,
                 "blockId": "17029f3d-f091-4a9f-be5c-dae233695187"
@@ -952,19 +952,19 @@
               {
                 "id": "6c01995d-d105-4ce4-a4e3-932fa352f74c",
                 "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0f412d98-e24a-441a-aa0e-145e5905f0be/popup/1774504130728-rqr46luyov.png",
-                "sortOrder": 1,
+                "sortOrder": 2,
                 "description": "",
-                "isSelected": true,
+                "isSelected": false,
                 "blockId": "17029f3d-f091-4a9f-be5c-dae233695187"
               }
             ],
             "slider": false,
+            "videos": [ ],
             "enabled": true,
             "endDate": null,
             "sortOrder": 0,
             "startDate": null,
-            "description": "",
-            "videos": [ ]
+            "description": ""
           },
           {
             "id": "1eb10349-2d2a-47cf-be68-5c45f482cd19",
@@ -974,7 +974,7 @@
               {
                 "id": "01a1ce85-c32e-7165-a236-9703d2741ad9",
                 "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0f412d98-e24a-441a-aa0e-145e5905f0be/popup/1794466234734-9loqew9a5l.jpg",
-                "sortOrder": 2,
+                "sortOrder": 0,
                 "description": "",
                 "isSelected": true,
                 "blockId": "1eb10349-2d2a-47cf-be68-5c45f482cd19"
