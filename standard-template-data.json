@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.31.0",
-    "generatedAt": "2026-11-12T06:52:38.672326607Z",
+    "version": "1.32.0",
+    "generatedAt": "2026-11-12T07:01:43.805480964Z",
     "templateType": "fullpage_mood",
     "propertyId": "abbd2563-ab58-4776-b90d-0d57bfa6b9ec",
     "homepageId": "0f412d98-e24a-441a-aa0e-145e5905f0be"
@@ -940,24 +940,7 @@
             "id": "17029f3d-f091-4a9f-be5c-dae233695187",
             "link": "",
             "title": "",
-            "images": [
-              {
-                "id": "eb051da6-9597-4fe8-b223-22b662ea6440",
-                "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0f412d98-e24a-441a-aa0e-145e5905f0be/popup/1768466706788-vhl5ojb89nl.jpg",
-                "sortOrder": 1,
-                "description": "",
-                "isSelected": false,
-                "blockId": "17029f3d-f091-4a9f-be5c-dae233695187"
-              },
-              {
-                "id": "6c01995d-d105-4ce4-a4e3-932fa352f74c",
-                "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0f412d98-e24a-441a-aa0e-145e5905f0be/popup/1774504130728-rqr46luyov.png",
-                "sortOrder": 2,
-                "description": "",
-                "isSelected": false,
-                "blockId": "17029f3d-f091-4a9f-be5c-dae233695187"
-              }
-            ],
+            "images": [ ],
             "slider": false,
             "videos": [ ],
             "enabled": true,
@@ -972,8 +955,8 @@
             "title": "",
             "images": [
               {
-                "id": "01a1ce85-c32e-7165-a236-9703d2741ad9",
-                "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0f412d98-e24a-441a-aa0e-145e5905f0be/popup/1794466234734-9loqew9a5l.jpg",
+                "id": "01a1ce8f-ecaa-7ae8-995e-4253d746f736",
+                "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0f412d98-e24a-441a-aa0e-145e5905f0be/popup/1794466900716-2mp0qqvqxd.jpg",
                 "sortOrder": 0,
                 "description": "",
                 "isSelected": true,
