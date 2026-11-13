@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.36.0",
-    "generatedAt": "2026-11-12T07:23:04.051381233Z",
+    "version": "1.37.0",
+    "generatedAt": "2026-11-13T01:57:19.145380975Z",
     "templateType": "fullpage_mood",
     "propertyId": "abbd2563-ab58-4776-b90d-0d57bfa6b9ec",
     "homepageId": "0f412d98-e24a-441a-aa0e-145e5905f0be"
@@ -1425,7 +1425,8 @@
       ],
       "footer": {
         "ruralStayMark": null,
-        "ruralStayMarks": [ ]
+        "ruralStayMarks": [ ],
+        "partnerPhoneExposed": true
       }
     }
   }
